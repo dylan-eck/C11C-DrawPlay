@@ -1,0 +1,6 @@
+# don't track compiled binary files
+bin/
+
+# don't track eclipse config files
+*.classpath
+*.project 
